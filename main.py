@@ -1,29 +1,30 @@
-from subprocess import Popen, PIPE
-
-exe_str = "stockfish-6-win\Windows\stockfish-6-64.exe"
-
-blackMoves = ['h7h6', 'g7g6', 'e7e6'];
-moves=[];
-
-def getMoves():
-    tempStr = '';
-    for x in moves:
-        tempStr += x + " ";
-    return tempStr;
-
-parent = Popen(exe_str,  stderr=PIPE, stdin=PIPE, stdout=PIPE); 
-
-for x in blackMoves:
-    parent = Popen(exe_str,  stderr=PIPE, stdin=PIPE, stdout=PIPE); 
-    output = parent.communicate('go')
-    moves.append(output[0].split()[-1])
-    moves.append(x) 
-    sendString = "position startmov moves %s" % getMoves();
-    print sendString
-    parent = Popen(exe_str,  stderr=PIPE, stdin=PIPE, stdout=PIPE); 
-    parent.communicate(sendString);
-    parent.wait()
+import wexpect
 
 
+def getbest(stockfishoutput):
+    stockfisharray = stockfishoutput.split(" ")
+    bestmove = stockfisharray[len(stockfisharray)-2]
+    return bestmove
 
-print moves
+
+addr = "stockfish-6-win\Windows\stockfish-6-64.exe"
+command = "position startpos moves"
+moveList = ["g7g6", "a7a5", "h7h5", "g8f6"]
+
+child = wexpect.spawn(addr)
+child.sendline('uci')
+
+for i in range(0, len(moveList)):
+    child.sendline('go')
+    child.expect_exact("ponder ")
+    bestmove = getbest(child.before)
+    print("Computer's move: " + bestmove + "\n")
+    #add computer move
+    command += (" " + bestmove)
+    print "Command: "+ command + "\n"
+
+    #add person move
+    command += (" " + moveList[i])
+    print("Person's move: " + moveList[i] + "\n")
+    print "Command: " + command + "\n"
+    child.sendline(command)
