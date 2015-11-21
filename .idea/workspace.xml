@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="959b3f89-0119-416c-9435-bb9df086800c" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main-mac.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-linux/AUTHORS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-linux/Copying.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-linux/Linux/stockfish_6_x64" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-linux/Linux/stockfish_6_x64_bmi2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-linux/Linux/stockfish_6_x64_modern" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-linux/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-linux/src/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-linux/src/benchmark.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-linux/src/bitbase.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-linux/src/bitboard.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-linux/src/bitboard.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-linux/src/bitcount.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-linux/src/endgame.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-linux/src/endgame.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-linux/src/evaluate.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-linux/src/evaluate.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-linux/src/main.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-linux/src/material.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-linux/src/material.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-linux/src/misc.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-linux/src/misc.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-linux/src/movegen.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-linux/src/movegen.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-linux/src/movepick.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-linux/src/movepick.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-linux/src/pawns.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-linux/src/pawns.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-linux/src/platform.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-linux/src/position.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-linux/src/position.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-linux/src/psqtab.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-linux/src/search.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-linux/src/search.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-linux/src/syzygy/tbcore.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-linux/src/syzygy/tbcore.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-linux/src/syzygy/tbprobe.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-linux/src/syzygy/tbprobe.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-linux/src/thread.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-linux/src/thread.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-linux/src/timeman.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-linux/src/timeman.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-linux/src/tt.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-linux/src/tt.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-linux/src/types.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-linux/src/uci.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-linux/src/uci.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-linux/src/ucioption.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-win/AUTHORS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-win/Copying.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-win/Readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-win/Windows/stockfish-6-32.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-win/Windows/stockfish-6-64.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-win/Windows/stockfish-6-bmi2.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-win/Windows/stockfish-6-sse42.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-win/src/Makefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-win/src/benchmark.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-win/src/bitbase.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-win/src/bitboard.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-win/src/bitboard.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-win/src/bitcount.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-win/src/endgame.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-win/src/endgame.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-win/src/evaluate.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-win/src/evaluate.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-win/src/main.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-win/src/material.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-win/src/material.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-win/src/misc.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-win/src/misc.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-win/src/movegen.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-win/src/movegen.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-win/src/movepick.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-win/src/movepick.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-win/src/pawns.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-win/src/pawns.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-win/src/platform.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-win/src/position.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-win/src/position.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-win/src/psqtab.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-win/src/search.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-win/src/search.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-win/src/syzygy/tbcore.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-win/src/syzygy/tbcore.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-win/src/syzygy/tbprobe.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-win/src/syzygy/tbprobe.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-win/src/thread.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-win/src/thread.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-win/src/timeman.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-win/src/timeman.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-win/src/tt.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-win/src/tt.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-win/src/types.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-win/src/uci.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-win/src/uci.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/stockfish-6-win/src/ucioption.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wexpect.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.py" afterPath="$PROJECT_DIR$/main.py" />
+    </list>
+    <ignored path="stockfishInterface.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="stockfishInterface" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.32226562">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="moveFunctions.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/moveFunctions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/main-mac.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/moveFunctions.py" />
+      </list>
+    </option>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="873" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stockfishInterface" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stockfishInterface" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stockfishInterface" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stockfishInterface" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stockfishInterface" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="temp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stockfishInterface" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stockfishInterface" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stockfish-6-mac" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stockfishInterface" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stockfishInterface" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stockfish-6-mac" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Mac" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="recentsLimit" value="5" />
+    <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/main.py" />
+    <property name="restartRequiresConfirmation" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.Unnamed">
+    <configuration default="false" name="main-mac" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="stockfishInterface" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main-mac.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="stockfishInterface" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="stockfishInterface" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="stockfishInterface" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="stockfishInterface" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="stockfishInterface" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="stockfishInterface" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unnamed" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/anaconda/bin/python.app" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="stockfishInterface" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Python.Unnamed" />
+      <item index="1" class="java.lang.String" itemvalue="Python.main-mac" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.main-mac" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="959b3f89-0119-416c-9435-bb9df086800c" name="Default" comment="" />
+      <created>1445107905442</created>
+      <option name="number" value="Default" />
+      <updated>1445107905442</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="873" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17847222" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39925373" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3283582" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/temp/main-mac.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20507812">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moveFunctions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.32226562">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
