@@ -17,19 +17,18 @@ class gCode(object):
 
     def getgCodeFromMove(self, arr):
         fullString = "";
-        for k in range(0, arr.size()):
-            move = arr[k];
+        for move in arr:
             move1 = move[:2];
             move2 = move[2:];
 
             str1 = self.getGCode(move1);
             str2 = self.getGCode(move2);
-            fullString = fullString + " " + str1 + " " + str2;
+            fullString = fullString + str1 + str2;
 
         return fullString;
 
     def getGCode(self, move):
-        xDist = self.di[move[0]] * self.xUnit;
+        xDist = self.alphaNumericDi[move[0]] * self.xUnit;
         yDist = int(move[1]) * self.yUnit;
 
         xStr = "X" + str(xDist);
