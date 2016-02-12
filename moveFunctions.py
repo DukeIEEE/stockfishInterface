@@ -2,8 +2,8 @@ import pexpect
 
 class moveFunction(object):
     def __init__(self):
-        #addr = '/home/pi/Desktop/stockfishInterface/stockfish'
-        self.addr = 'stockfish-6-mac/Mac/stockfish-6-64'
+        self.addr = '/home/pi/Desktop/stockfishInterface/stockfish'
+        #self.addr = 'stockfish-6-mac/Mac/stockfish-6-64'
         self.moveCommand = "position startpos moves"
         self.moveString = ""
         self.child=pexpect.spawn(self.addr)
