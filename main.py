@@ -1,7 +1,7 @@
 from moveFunctions import moveFunction
     
 moveFcn = moveFunction()
-moveList = ["g7g6", "a7a5", "h7h5", "g8f6"]
+moveList = ["e2e4", "f7f5", "e4f5"]
 
 
 for move in moveList: 

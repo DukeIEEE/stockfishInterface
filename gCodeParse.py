@@ -12,7 +12,12 @@ class gCode(object):
         move = [command]
         if (command == 'e1g1'):  # castling white right side
             move.append('h1f1');
-
+        elif(command == 'e1b1'):
+            move.append('a1c1');
+        elif(command == 'e8g8'):
+            move.append('h8f8');
+        elif(command == 'e8b8'):
+            move.append('a8c8');
         return move;
 
     def getgCodeFromMove(self, arr):
